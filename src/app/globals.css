@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+#landing {
+  background-image: url('/img/background.png');
+  background-position: center;
+  background-size: cover;
+}
